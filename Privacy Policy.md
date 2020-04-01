@@ -4,12 +4,17 @@ Mahak Aggarwal ("MMagg", "I", “me”, “our”) built the AC Odyssey - Checkl
 If you choose to agree to this policy in the application, then you agree to the collection and use of information in relation to this privacy policy. The personal information collected is used for providing and improving the service. Your information will not be shared with anyone except as described in this privacy policy.  
 The terms used in this privacy policy have the same meanings as in the [Terms of Use](https://github.com/MMagg-dev/AC-Odyssey-Checklist-For-Completionists/blob/master/Terms%20of%20Use.md) unless otherwise defined in this privacy policy. The Terms of Use are accessible through the application and through this [link](https://github.com/MMagg-dev/AC-Odyssey-Checklist-For-Completionists/blob/master/Terms%20of%20Use.md).
 
+This privacy policy has been updated for versions 2.0.0 and above of the application. The changes are reflected in the change log.
+
 ### Information Collection and Use
 For a better experience, while using the service, you may be required to provide certain personally identifiable information. This information will be retained on your device and is not collected by me in any way. 
 The application uses third party services that may collect information used to identify you. Links of privacy policies of third party service providers used by the application are as follows – 
 *	[Google Play Services](https://policies.google.com/privacy)
 *	[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *	[Firebase Analytics](https://firebase.google.com/policies/analytics)
+
+The following third party service provider may collect information and identify you in versions 2.0.0 and above of the application -
+*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
 ### Log Data
 Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and data of your use of the service, and other statistics.
@@ -40,3 +45,6 @@ I may update the privacy policy from time to time. Thus, you are advised to revi
 
 ### Contact Me
 If you have any questions or suggestions about this privacy policy, do not hesitate to contact me.
+
+### Change Log
+March 2, 2020 - updated for information collection and usage by third party service provider Firebase Crashlytics
