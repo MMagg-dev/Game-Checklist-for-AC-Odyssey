@@ -32,21 +32,13 @@ An unofficial checklist, progress tracker, and general guide for Assassin’s Cr
 Please note that this is a third party, fan-made application. Assassin’s Creed, Assassin’s Creed Odyssey, and all related copyrights and trademarks are owned by Ubisoft Quebec and Ubisoft. This app is not maintained by, affiliated to or endorsed by Ubisoft Quebec or Ubisoft.
 
 ### Screenshots
-![Dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/dashboard_light.png)
+![Dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/dashboard_light.png)  ![Main Quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/main_quests_light.png)
 
-![Main Quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/main_quests_light.png)
+![Side Quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/side_quests_dark.png)  ![Armours](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/armour_light.png)
 
-![Side Quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/side_quests_dark.png)
+![Location Activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/location_activity_dark.png)  ![weapons](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/weapons_dark.png)
 
-![Armours](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/armour_light.png)
-
-![Location Activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/location_activity_dark.png)
-
-![weapons](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/weapons_dark.png)
-
-![First Blade](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/legacy_quests_dark.png)
-
-![Fate of Atlantis](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/fate_quests_light.png)
+![First Blade](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/legacy_quests_dark.png)  ![Fate of Atlantis](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/fate_quests_light.png)
 
 
 ### What's new in version 2
