@@ -1,4 +1,4 @@
-# AC Odyssey - Checklist for Comptionists
+# AC Odyssey - Checklist for Completionists
 
 An unofficial checklist, progress tracker, and general guide for Assassin’s Creed Odyssey game. Explore Greece, Elysium, Underworld, and Atlantis and make sure you don’t miss out on any quest, collectible, or ainigmata ostraka puzzles in the game.
 
