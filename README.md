@@ -25,6 +25,7 @@ An unofficial checklist, progress tracker, and general guide for Assassin’s Cr
 * Option to move checked items to the bottom of lists
 * Option to hide/show spoilers for members of the Cult of Kosmos and Order of the Ancients
 * Option to hide/show secret achievements
+* Option to reset selected lists
 * Option to reset all checked items
 * Dark theme available for devices that support it
 
