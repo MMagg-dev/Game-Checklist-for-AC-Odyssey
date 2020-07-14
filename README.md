@@ -41,7 +41,7 @@ Please note that this is a third party, fan-made application. Assassin’s Creed
 
 ![First Blade](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/legacy_quests_dark.png)    ![Fate of Atlantis](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/fate_quests_light.png)
 
-### What's new in version 2.3
+### What's new in version 2.2
 This version will soon be available on Google Play.
 * Translations added for French and Portuguese
 * Option added to check off all store bought collectibles
