@@ -2,7 +2,7 @@
 
 Mahak Aggarwal ("MMagg", " Eu", " Mim", "nosso") construiu a aplicação Game Checklist, Tracker and Guide - for AC Odyssey como uma aplicação móvel suportada por publicidade. Este serviço é fornecido por mim sem qualquer custo e destina-se a ser utilizado tal como está. Esta política de privacidade contém informações sobre recolha, utilização, e divulgação de informações pessoais se o serviço (" aplicativo", "aplicação") for utilizado.  
 Se optar por concordar com esta política na candidatura, então concorda com a recolha e utilização de informações em relação a esta política de privacidade. As informações pessoais recolhidas são utilizadas para fornecer e melhorar o serviço. As suas informações não serão partilhadas com ninguém, excepto conforme descrito na presente política de privacidade.  
-Os termos utilizados nesta política de privacidade têm os mesmos significados que nos [Termos de Uso](), salvo definição em contrário na presente política de privacidade. Os Termos de Utilização são acessíveis através da aplicação e através deste [link]().
+Os termos utilizados nesta política de privacidade têm os mesmos significados que nos [Termos de Uso](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Portugu%C3%AAs/Termos%20de%20Uso%20Portugu%C3%AAs.md), salvo definição em contrário na presente política de privacidade. Os Termos de Utilização são acessíveis através da aplicação e através deste [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Portugu%C3%AAs/Termos%20de%20Uso%20Portugu%C3%AAs.md).
 
 Esta política de privacidade foi actualizada para as versões 2.0.0 e superiores da aplicação. As alterações estão reflectidas no registo de alterações.
 
