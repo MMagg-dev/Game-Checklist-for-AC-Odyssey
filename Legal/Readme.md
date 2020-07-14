@@ -6,7 +6,6 @@ Use this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 Use this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/English/Terms%20of%20Use%20English.md) to view the Terms of Use in English.
 
 \
-\
 # Français
 ### Politique de Confidentialité
 Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Fran%C3%A7ais/Politique%20de%20confidentialit%C3%A9%20Fran%C3%A7ais.md) pour consulter la politique de confidentialité en français.
@@ -14,7 +13,6 @@ Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/bl
 ### Conditions d'utilisation
 Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Fran%C3%A7ais/Conditions%20d'utilisation%20fran%C3%A7ais.md) pour consulter les conditions d'utilisation en français.
 
-\
 \
 # Português
 ### Política de Privacidade
