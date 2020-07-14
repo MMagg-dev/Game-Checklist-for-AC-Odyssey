@@ -32,6 +32,9 @@ An unofficial checklist, progress tracker, and general guide for Assassin’s Cr
 ### Notes
 Please note that this is a third party, fan-made application. Assassin’s Creed, Assassin’s Creed Odyssey, and all related copyrights and trademarks are owned by Ubisoft Quebec and Ubisoft. This app is not maintained by, affiliated to or endorsed by Ubisoft Quebec or Ubisoft.
 
+### Legal
+Privacy Policy and Terms of Use are available [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) in English, French, and Portuguese.
+
 ### Screenshots
 ![Dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/dashboard_light.png)    ![Main Quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/main_quests_light.png)
 
