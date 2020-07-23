@@ -5,8 +5,9 @@ Uma lista de verificação não-oficial, um rastreador de progresso, e um guia g
 [![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
 
-Use this [link]() to view this is English.
-Utilisez ce [lien]() pour le visualiser en Français.
+Use this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README.md) to view this is English.
+
+Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README_fr.md) pour le visualiser en Français.
 
 
 ### Listas de verificação disponíveis
@@ -39,16 +40,10 @@ Note-se que se trata de uma aplicação feita por terceiros, em leque. Assassin'
 Uma vez que esta aplicação foi traduzida do inglês, a tradução pode não ser 100% precisa.
 
 ### Legal
-Política de Privacidade e Termos de Uso estão disponíveis [aqui]() em inglês, francês, e português.
+Política de Privacidade e Termos de Uso estão disponíveis [aqui](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) em inglês, francês, e português.
 
 ### Capturas de ecrã
-![Dashboard]()    ![Main Quests]()
-
-![Side Quests]()    ![Armours]()
-
-![Location Activities]()    ![weapons]()
-
-![First Blade]()    ![Fate of Atlantis]()
+Ver capturas de ecrã [aqui](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/Portuguese).
 
 ### O que há de novo na versão 2.2
 1. Característica adicionada para incluir/excluir DLCs do progresso total
