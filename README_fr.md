@@ -5,8 +5,9 @@ Une liste de contrôle non officielle, un suivi des progrès et un guide génér
 [![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
 
-Use this [link]() to view this in English.
-Use este [link]() para ver isto é Português.
+Use this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README.md) to view this in English.
+
+Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README_pt.md) para ver isto é Português.
 
 
 ### Listes de contrôle disponibles
@@ -42,13 +43,7 @@ Comme cette application a été traduite de l'anglais, la traduction peut ne pas
 La politique de confidentialité et les conditions d'utilisation sont disponibles [ici]() en anglais, français et portugais.
 
 ### Captures d'écran
-![Dashboard]()    ![Main Quests]()
-
-![Side Quests]()    ![Armours]()
-
-![Location Activities]()    ![weapons]()
-
-![First Blade]()    ![Fate of Atlantis]()
+Voir les captures d'écran [ici](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/French).
 
 ### Quoi de neuf dans la version 2.2
 1. Ajout d'une fonction permettant d'inclure/exclure les DLCs de la progression totale
