@@ -42,7 +42,7 @@ Please note that this is a third party, fan-made application. Assassin’s Creed
 Privacy Policy and Terms of Use are available [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) in English, French, and Portuguese.
 
 ### Screenshots
-View screenshots [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/English)
+View screenshots [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/English).
 
 ### What's new in version 2.2
 1. Added feature to include/exclude DLCs from total progress
