@@ -5,8 +5,9 @@ An unofficial checklist, progress tracker, and general guide for Assassin’s Cr
 [![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
 
-Utilisez ce [lien]() pour le visualiser en Français.
-Use este [link]() para ver isto é Português.
+Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README_fr.md) pour le visualiser en Français.
+
+Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README_pt.md) para ver isto é Português.
 
 
 ### Checklists Available
@@ -41,13 +42,7 @@ Please note that this is a third party, fan-made application. Assassin’s Creed
 Privacy Policy and Terms of Use are available [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) in English, French, and Portuguese.
 
 ### Screenshots
-![Dashboard]()    ![Main Quests]()
-
-![Side Quests]()    ![Armours]()
-
-![Location Activities]()    ![weapons]()
-
-![First Blade]()    ![Fate of Atlantis]()
+View screenshots [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/English)
 
 ### What's new in version 2.2
 1. Added feature to include/exclude DLCs from total progress
