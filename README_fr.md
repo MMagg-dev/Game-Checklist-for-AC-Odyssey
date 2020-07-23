@@ -40,7 +40,7 @@ Veuillez noter qu'il s'agit d'une application réalisée par un tiers et par un 
 Comme cette application a été traduite de l'anglais, la traduction peut ne pas être exacte à 100 %.
 
 ### Légal
-La politique de confidentialité et les conditions d'utilisation sont disponibles [ici]() en anglais, français et portugais.
+La politique de confidentialité et les conditions d'utilisation sont disponibles [ici](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) en anglais, français et portugais.
 
 ### Captures d'écran
 Voir les captures d'écran [ici](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/French).
