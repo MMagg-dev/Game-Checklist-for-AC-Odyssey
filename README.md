@@ -5,6 +5,10 @@ An unofficial checklist, progress tracker, and general guide for Assassin’s Cr
 [![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
 
+Utilisez ce [lien]() pour le visualiser en Français.
+Use este [link]() para ver isto é Português.
+
+
 ### Checklists Available
 * Main storyline quests
 * Side quests (with general notes)
@@ -22,12 +26,13 @@ An unofficial checklist, progress tracker, and general guide for Assassin’s Cr
 
 ### App Features
 * Track your progress
+* Option to include/exclude DLCs in total progress
 * Option to move checked items to the bottom of lists
 * Option to hide/show spoilers for members of the Cult of Kosmos and Order of the Ancients
 * Option to hide/show secret achievements
-* Option to reset selected lists
-* Option to reset all checked items
+* Option to reset lists
 * Dark theme available for devices that support it
+* Application available in English, French, and Portuguese
 
 ### Notes
 Please note that this is a third party, fan-made application. Assassin’s Creed, Assassin’s Creed Odyssey, and all related copyrights and trademarks are owned by Ubisoft Quebec and Ubisoft. This app is not maintained by, affiliated to or endorsed by Ubisoft Quebec or Ubisoft.
@@ -36,28 +41,16 @@ Please note that this is a third party, fan-made application. Assassin’s Creed
 Privacy Policy and Terms of Use are available [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) in English, French, and Portuguese.
 
 ### Screenshots
-![Dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/dashboard_light.png)    ![Main Quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/main_quests_light.png)
+![Dashboard]()    ![Main Quests]()
 
-![Side Quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/side_quests_dark.png)    ![Armours](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/armour_light.png)
+![Side Quests]()    ![Armours]()
 
-![Location Activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/location_activity_dark.png)    ![weapons](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/weapons_dark.png)
+![Location Activities]()    ![weapons]()
 
-![First Blade](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/legacy_quests_dark.png)    ![Fate of Atlantis](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/fate_quests_light.png)
+![First Blade]()    ![Fate of Atlantis]()
 
 ### What's new in version 2.2
-This version will soon be available on Google Play.
-* Translations added for French and Portuguese
-* Option added to check off all store bought collectibles
-* Option added to include/exclude DLCs from total progress
-* Full screen ads are now better placed in the app flow
-* Bug fixes
-
-### What's new in version 2
-There are a lot of changes in this version -
-* Added a progress tracker
-* Replaced menu with dashboard
-* Side quests and location activities are now sorted by location
-* A general guide is provided for side quests, getting legendary items, solving ainigmata ostraka puzzles, and getting cultist clues
-* Checked items are now pushed to the bottom of lists instead of being hidden
-* Added missing side quests and Archives in Atlantis
-* Fixed bugs and improved performance
+1. Added feature to include/exclude DLCs from total progress
+2. Added option to check off all store bought collectibles
+3. Translations now available for French and Portuguese
+4. Squashed bugs and improved overall experience
