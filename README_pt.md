@@ -11,7 +11,7 @@ Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/bl
 
 
 ### Listas de verificação disponíveis
-* Missões principais de linha de história
+* Missões principais de linha de história (com notas gerais)
 * Missões secundárias (com notas gerais)
 * Ostracões de Enigmas com soluções
 * Túmulos e pontos de vista
@@ -44,9 +44,3 @@ Política de Privacidade e Termos de Uso estão disponíveis [aqui](https://gith
 
 ### Capturas de ecrã
 Ver capturas de ecrã [aqui](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/Portuguese).
-
-### O que há de novo na versão 2.2
-1. Característica adicionada para incluir/excluir DLCs do progresso total
-2. Adicionada a opção de verificar todas as compras de coleccionáveis na loja
-3. Traduções agora disponíveis para francês e português
-4. Bugs corrigidos e experiência global melhorada
