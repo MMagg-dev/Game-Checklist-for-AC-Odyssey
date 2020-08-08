@@ -11,7 +11,7 @@ Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 
 
 ### Checklists Available
-* Main storyline quests
+* Main storyline quests (with general notes)
 * Side quests (with general notes)
 * Ainigmata ostraka puzzles with solutions
 * Tombs and viewpoints
@@ -43,9 +43,3 @@ Privacy Policy and Terms of Use are available [here](https://github.com/MMagg-de
 
 ### Screenshots
 View screenshots [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/English).
-
-### What's new in version 2.2
-1. Added feature to include/exclude DLCs from total progress
-2. Added option to check off all store bought collectibles
-3. Translations now available for French and Portuguese
-4. Squashed bugs and improved overall experience
