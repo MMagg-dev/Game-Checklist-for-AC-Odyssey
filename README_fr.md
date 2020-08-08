@@ -11,7 +11,7 @@ Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 
 
 ### Listes de contrôle disponibles
-* Principales quêtes de l'histoire
+* Principales quêtes de l'histoire (avec notes générales)
 * Quêtes secondaires (avec notes générales)
 * Ostracons à énigme avec solutions
 * Tombeaux et points d'observation
@@ -44,9 +44,3 @@ La politique de confidentialité et les conditions d'utilisation sont disponible
 
 ### Captures d'écran
 Voir les captures d'écran [ici](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/French).
-
-### Quoi de neuf dans la version 2.2
-1. Ajout d'une fonction permettant d'inclure/exclure les DLCs de la progression totale
-2. Ajout d'une option permettant de cocher tous les objets de collection achetés en magasin
-3. Traductions désormais disponibles pour le français et le portugais
-4. Bugs écrasés et expérience globale améliorée
