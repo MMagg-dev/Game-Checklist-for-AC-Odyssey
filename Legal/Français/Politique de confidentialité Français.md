@@ -2,9 +2,8 @@
 
 Mahak Aggarwal ("MMagg", " je ", " moi ", " notre ") a construit l'application Game Checklist, Tracker and Guide - for AC Odyssey comme une application mobile soutenue par la publicité. Ce service est fourni par moi gratuitement et est destiné à être utilisé tel quel. Cette politique de confidentialité contient des informations sur la collecte, l'utilisation et la divulgation d'informations personnelles si le service ("app", "application") est utilisé.  
 Si vous choisissez d'accepter cette politique dans l'application, vous acceptez la collecte et l'utilisation des informations en rapport avec cette politique de confidentialité. Les informations personnelles collectées sont utilisées pour fournir et améliorer le service. Vos informations ne seront partagées avec personne, sauf dans les conditions décrites dans la présente politique de confidentialité.  
-Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans les [Conditions d'utilisation](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Fran%C3%A7ais/Conditions%20d'utilisation%20fran%C3%A7ais.md), sauf indication contraire dans la présente politique de confidentialité. Les conditions d'utilisation sont accessibles par l'application et par ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Fran%C3%A7ais/Conditions%20d'utilisation%20fran%C3%A7ais.md).
+Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans les [Conditions d'utilisation](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Fran%C3%A7ais/Conditions%20d'utilisation%20fran%C3%A7ais.md), sauf indication contraire dans la présente politique de confidentialité. Les conditions d'utilisation sont accessibles par l'application et par ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Fran%C3%A7ais/Conditions%20d'utilisation%20fran%C3%A7ais.md). Cette politique est effective à partir de la version 1.0.0 et plus de l'application.
 
-Cette politique de confidentialité a été mise à jour pour les versions 2.0.0 et supérieures de l'application. Les changements sont reflétés dans le journal des modifications.
 
 ### Collecte et utilisation des informations
 Pour une meilleure expérience, lors de l'utilisation du service, il peut vous être demandé de fournir certaines informations d'identification personnelle. Ces informations seront conservées sur votre appareil et ne sont pas collectées par moi de quelque manière que ce soit. 
@@ -13,8 +12,14 @@ L'application utilise des services tiers qui peuvent recueillir des informations
 *	[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *	[Firebase Analytics](https://firebase.google.com/policies/analytics)
 
-Le prestataire de services tiers suivant peut recueillir des informations et vous identifier dans les versions 2.0.0 et supérieures de l'application -
+Le fournisseur de services tiers suivant peut collecter des informations et vous identifier dans les versions 2.0.0 et supérieures de l'application -
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+
+Voici les fournisseurs de services tiers peuvent collecter des informations et de vous identifier dans les versions 3.0.0 et au-dessus de l'application -
+* [AdColony](https://www.adcolony.com/privacy-policy/)
+* [Facebook](https://www.facebook.com/about/privacy/update/printable)
+* [MoPub](https://www.mopub.com/en/legal/privacy)
+* [Vungle](https://vungle.com/privacy/)
 
 ### Données enregistrées
 Chaque fois que l'application est utilisée, en cas d'erreur, l'application collecte des données et des informations (par l'intermédiaire de fournisseurs de services tiers) appelées données de journal sur votre appareil. Les données enregistrées peuvent comprendre des informations telles que l'adresse IP ("Protocole Internet") de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation du service, l'heure et les données de votre utilisation du service, et d'autres statistiques.
@@ -47,4 +52,5 @@ Je peux mettre à jour la politique de confidentialité de temps en temps. Nous 
 Si vous avez des questions ou des suggestions concernant cette politique de confidentialité, n'hésitez pas à me contacter.
 
 ### Modifications
-2 mars 2020 - mise à jour pour la collecte et l'utilisation des informations par le prestataire de services tiers Firebase Crashlytics
+* 2 mars 2020 - mise à jour pour la collecte et l'utilisation des informations par le prestataire de services tiers Firebase Crashlytics
+* 3 juillet 2021 - mise à jour pour la collecte et l'utilisation des informations par les prestataires de services tiers AdColony, Facebook, MoPub et Vungle.
