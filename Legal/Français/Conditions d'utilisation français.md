@@ -4,10 +4,24 @@ Veuillez lire ces conditions d'utilisation avant de les accepter dans l'applicat
 \
 Game Checklist, Tracker and Guide - for AC Odyssey est une application mobile ("app", "service") développée par Mahak Aggarwal ("MMagg", " moi ", " mon ", " je ", " développeur ") mise à votre disposition ("utilisateur"), gratuitement. Ces conditions d'utilisation constituent un accord juridiquement contraignant entre vous et le développeur. En tant qu'utilisateur de l'application, confirmez l'acceptation des présentes conditions d'utilisation de l'application. Si vous ne les acceptez pas, vous devez désinstaller l'application et cesser de l'utiliser. Ce document doit être lu à côté de la [politique de confidentialité](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Fran%C3%A7ais/Politique%20de%20confidentialit%C3%A9%20Fran%C3%A7ais.md).  
 \
-Vous n'êtes pas autorisé à copier ou à modifier la demande, ni les images et logos de la demande de quelque manière que ce soit. Vous n'êtes pas autorisé à extraire le code source de l'application et vous n'êtes pas non plus autorisé à traduire l'application dans d'autres langues ou à en faire des versions dérivées. Les marques commerciales de l'application, les droits d'auteur, les droits sur les bases de données et les droits de propriété intellectuelle appartiennent toujours au développeur. L'application est basée sur le jeu Assassin's Creed Odyssey développé par Ubisoft. Toutes les marques et tous les droits d'auteur d'Assassin's Creed sont la propriété d'Ubisoft Québec et d'Ubisoft. Cette application n'est pas maintenue par, affiliée à ou endossée par Ubisoft Québec ou Ubisoft. Tout le contenu de l'application lié au jeu Assassin's Creed Odyssey (scénario, quêtes, objets de collection, DLC, personnages, créatures, réalisations et autres éléments du jeu) appartient à Ubisoft Québec et Ubisoft.  
+Vous n'êtes pas autorisé à copier ou à modifier la demande, ni les images et logos de la demande de quelque manière que ce soit. Vous n'êtes pas autorisé à extraire le code source de l'application et vous n'êtes pas non plus autorisé à traduire l'application dans d'autres langues ou à en faire des versions dérivées. Les marques commerciales de l'application, les droits d'auteur, les droits sur les bases de données et les droits de propriété intellectuelle appartiennent toujours au développeur. L'application est basée sur le jeu Assassin's Creed Odyssey développé par Ubisoft. Toutes les marques et tous les droits d'auteur d'Assassin's Creed sont la propriété d'Ubisoft Québec et d'Ubisoft. Cette application n'est pas maintenue par, affiliée à ou endossée par Ubisoft Québec ou Ubisoft.  
+\
+Le développeur s'engage à faire en sorte que l'application soit aussi utile et efficace que possible. Pour cette raison, nous nous réservons le droit d'apporter des modifications à l'application ou de facturer ses services, à tout moment et pour n'importe quelle raison. Nous ne vous facturerons jamais l'application ou ses services sans vous expliquer clairement ce pour quoi vous payez.
 \
 L'application utilise des fournisseurs de logiciels tiers qui stockent et traitent les données personnelles que vous nous avez fournies, pour fournir le service. Il est de votre responsabilité de sécuriser votre téléphone et votre accès à l'application. Nous vous recommandons donc de ne pas jailbreaker ou root votre téléphone, ce qui est le processus de suppression des restrictions et limitations logicielles imposées par le système d'exploitation officiel de votre appareil. Cela pourrait rendre votre téléphone vulnérable aux logiciels malveillants/virus/programmes malveillants, compromettre les fonctions de sécurité de votre téléphone et cela pourrait signifier que l'application ne fonctionnera pas correctement ou pas du tout.  
-\
+
+L'application fait appel à des services tiers qui déclarent leurs propres conditions générales. Les liens vers les conditions générales des prestataires de services tiers utilisés par l'application sont les suivants -
+
+* [Google Play Services](https://policies.google.com/terms)
+* [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+* [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+* [AdMob](https://developers.google.com/admob/terms)
+
+Les prestataires tiers suivants sont utilisés dans les versions 3.0.0 et supérieures de l'application -
+* [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
+* [MoPub](https://www.mopub.com/en/legal/tos) 
+
+
 Vous devez savoir qu'il y a certaines choses dont le développeur n'assume pas la responsabilité. Certaines fonctions de l'application nécessiteront que l'application ait une connexion Internet active. La connexion peut être Wi-Fi ou fournie par votre fournisseur de réseau mobile, mais le développeur ne peut pas être tenu responsable du fait que l'application ne fonctionne pas à pleine capacité si vous n'avez pas accès au Wi-Fi et qu'il ne vous reste aucune donnée autorisée.  
 \
 Si vous utilisez l'application en dehors d'une zone équipée d'un réseau Wi-Fi, vous devez vous rappeler que les conditions de l'accord conclu avec votre fournisseur de réseau mobile s'appliquent toujours. Par conséquent, votre fournisseur de téléphonie mobile peut vous facturer le coût des données pour la durée de la connexion pendant que vous accédez à l'application, ou d'autres frais de tiers. En utilisant l'application, vous acceptez la responsabilité de ces frais, y compris les frais de données en itinérance si vous utilisez l'application en dehors de votre territoire d'origine (c'est-à-dire de votre région ou pays) sans avoir désactivé l'itinérance des données. Si vous n'êtes pas le payeur de la facture de l'appareil sur lequel vous utilisez l'application, sachez que nous supposons que vous avez reçu l'autorisation du payeur de la facture pour l'utilisation de l'application.  
@@ -22,4 +36,7 @@ En ce qui concerne la responsabilité du développeur pour votre utilisation de 
 Le développeur peut mettre à jour les conditions d'utilisation de temps en temps. Il vous est donc conseillé de consulter régulièrement cette page pour prendre connaissance des modifications éventuelles. Vous serez informé de toute modification par le biais de cette page et de l'application. Ces changements entreront en vigueur immédiatement après avoir été publiés sur cette page.  
 
 ### Contactez
-Si vous avez des questions ou des suggestions concernant ce document sur les conditions d'utilisation, n'hésitez pas à me contacter.
+Si vous avez des questions ou des suggestions concernant le présent document sur les conditions d'utilisation, n'hésitez pas à me contacter à l'adresse [mahakagg30@gmail.com](mailto:mahakagg30@gmail.com).
+
+### Change Logs
+* 3 juillet 2021 - ajout de Facebook et MoPub à l'application en tant que prestataires de services tiers.
