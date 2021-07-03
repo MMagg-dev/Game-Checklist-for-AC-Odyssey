@@ -16,7 +16,7 @@ The application uses third-party services that may collect information used to i
 The following third-party service provider may collect information and identify you in versions 2.0.0 and above of the application -
 * [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-The following third-party service provider may collect information and identify you in versions 3.0.0 and above of the application -
+The following third-party service providers may collect information and identify you in versions 3.0.0 and above of the application -
 * [AdColony](https://www.adcolony.com/privacy-policy/)
 * [Facebook](https://www.facebook.com/about/privacy/update/printable)
 * [MoPub](https://www.mopub.com/en/legal/privacy)
