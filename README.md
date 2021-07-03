@@ -36,7 +36,8 @@ Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 * Application available in English, French, and Portuguese
 
 ### Notes
-Please note that this is a third party, fan-made application. Assassin’s Creed, Assassin’s Creed Odyssey, and all related copyrights and trademarks are owned by Ubisoft Quebec and Ubisoft. This app is not maintained by, affiliated to or endorsed by Ubisoft Quebec or Ubisoft.
+Please note that this is a third party, fan-made application. This app is not maintained by, affiliated to or endorsed by Ubisoft Quebec or Ubisoft.
+Part of launcher icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/).
 
 ### Legal
 Privacy Policy and Terms of Use are available [here](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) in English, French, and Portuguese.
