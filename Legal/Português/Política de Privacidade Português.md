@@ -2,19 +2,23 @@
 
 Mahak Aggarwal ("MMagg", " Eu", " Mim", "nosso") construiu a aplicação Game Checklist, Tracker and Guide - for AC Odyssey como uma aplicação móvel suportada por publicidade. Este serviço é fornecido por mim sem qualquer custo e destina-se a ser utilizado tal como está. Esta política de privacidade contém informações sobre recolha, utilização, e divulgação de informações pessoais se o serviço (" aplicativo", "aplicação") for utilizado.  
 Se optar por concordar com esta política na candidatura, então concorda com a recolha e utilização de informações em relação a esta política de privacidade. As informações pessoais recolhidas são utilizadas para fornecer e melhorar o serviço. As suas informações não serão partilhadas com ninguém, excepto conforme descrito na presente política de privacidade.  
-Os termos utilizados nesta política de privacidade têm os mesmos significados que nos [Termos de Uso](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Portugu%C3%AAs/Termos%20de%20Uso%20Portugu%C3%AAs.md), salvo definição em contrário na presente política de privacidade. Os Termos de Utilização são acessíveis através da aplicação e através deste [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Portugu%C3%AAs/Termos%20de%20Uso%20Portugu%C3%AAs.md).
-
-Esta política de privacidade foi actualizada para as versões 2.0.0 e superiores da aplicação. As alterações estão reflectidas no registo de alterações.
+Os termos utilizados nesta política de privacidade têm os mesmos significados que nos [Termos de Uso](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Portugu%C3%AAs/Termos%20de%20Uso%20Portugu%C3%AAs.md), salvo definição em contrário na presente política de privacidade. Os Termos de Utilização são acessíveis através da aplicação e através deste [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/Portugu%C3%AAs/Termos%20de%20Uso%20Portugu%C3%AAs.md). Esta política é eficaz a partir da versão 1.0.0 e superior da aplicação.
 
 ### Recolha e utilização da informação
 Para uma melhor experiência, ao utilizar o serviço, poderá ser-lhe solicitado que forneça determinadas informações pessoalmente identificáveis. Estas informações serão retidas no seu dispositivo e não são por mim recolhidas de forma alguma. 
 A aplicação utiliza serviços de terceiros que podem recolher informações utilizadas para o identificar. As ligações das políticas de privacidade dos prestadores de serviços de terceiros utilizadas pela aplicação são as seguintes – 
-*	[Google Play Services](https://policies.google.com/privacy)
-*	[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*	[Firebase Analytics](https://firebase.google.com/policies/analytics)
+* [Google Play Services](https://policies.google.com/privacy)
+* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+* [Firebase Analytics](https://firebase.google.com/policies/analytics)
 
 O seguinte terceiro prestador de serviços pode recolher informações e identificá-lo nas versões 2.0.0 e superiores da aplicação -
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+* [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+
+O seguinte terceiro prestador de serviços pode recolher informações e identificá-lo nas versões 3.0.0 e superiores da aplicação -
+* [AdColony](https://www.adcolony.com/privacy-policy/)
+* [Facebook](https://www.facebook.com/about/privacy/update/printable)
+* [MoPub](https://www.mopub.com/en/legal/privacy)
+* [Vungle](https://vungle.com/privacy/)
 
 ### Dados de registo
 Sempre que a aplicação é utilizada, em caso de erro, a aplicação recolhe dados e informações (através de terceiros prestadores de serviços) chamados dados de registo no seu dispositivo. Os dados de registo podem incluir informações tais como o endereço do Protocolo Internet ("IP") do seu dispositivo, nome do dispositivo, versão do sistema operativo, configuração da aplicação ao utilizar o serviço, tempo e dados da sua utilização do serviço, e outras estatísticas.
@@ -47,4 +51,5 @@ Posso actualizar a política de privacidade de tempos a tempos. Assim, aconselha
 Se tiver quaisquer perguntas ou sugestões sobre esta política de privacidade, não hesite em contactar-me.
 
 ### Registo de alterações
-2 de Março de 2020 - actualizado para recolha e utilização de informação por terceiros Firebase Crashlytics
+* 2 de Março de 2020 - actualizado para recolha e utilização de informação por terceiros Firebase Crashlytics
+* 3 de Julho de 2021 - actualizado para recolha e utilização de informação por fornecedores de serviços de terceiros AdColony, Facebook, MoPub, e Vungle.
