@@ -4,9 +4,24 @@ Please read these terms of use before agreeing to them in the mobile application
 \
 Game Checklist, Tracker and Guide - for AC Odyssey is a mobile application (“app”, “service”) developed by Mahak Aggarwal (“MMagg”, “me”, “my”, “I”, “developer”) made available to you (“user”), free of cost. These terms of use constitute a legally binding agreement between you and the developer. As the user of the application, confirm the acceptance of these application terms of use. If you do not agree to them, then you must uninstall the application and discontinue its use. This document must be read alongside the [privacy policy](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/English/Privacy%20Policy%20English.md).  
 \
-You are not allowed to copy, or modify the application, or the application’s images and logos in any way. You are not allowed to extract the source code of the application, and you are also not allowed to translate the application into other languages or make derivative versions. The application trademarks, copyright, database rights, and intellectual property rights still belong to the developer. The app is a fan-based application based on the Assassin’s Creed Odyssey game developed by Ubisoft. All Assassin’s Creed trademarks and copyrights are owned by Ubisoft Quebec and Ubisoft. This app is not maintained by, affiliated to or endorsed by Ubisoft Quebec or Ubisoft. All content in the application related to the Assassin’s Creed Odyssey game (storyline, quests, collectibles, DLCs, characters, creatures, achievements, and other in-game items) belong to Ubisoft Quebec and Ubisoft.  
+You are not allowed to copy, or modify the application, or the application’s images and logos in any way. You are not allowed to extract the source code of the application, and you are also not allowed to translate the application into other languages or make derivative versions. The application trademarks, copyright, database rights, and intellectual property rights still belong to the developer. The app is a fan-based application based on the Assassin’s Creed Odyssey game developed by Ubisoft. This app is not maintained by, affiliated to or endorsed by Ubisoft Quebec or Ubisoft.  
 \
-The application uses third party software providers which store and process personal data that you have provided to us, to provide the service. It is your responsibility to keep your phone and access to the application secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the application won’t work properly or at all.  
+The developer is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+\
+The application uses third party software providers which store and process personal data that you have provided to us, to provide the service. It is your responsibility to keep your phone and access to the application secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the application won’t work properly or at all.
+\
+The app does use third party services that declare their own Terms and Conditions.
+
+Links to Terms and Conditions of third party service providers used by the app
+
+* [Google Play Services](https://policies.google.com/terms)
+* [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+* [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+* [AdMob](https://developers.google.com/admob/terms)
+
+The following third party service providers are used in versions 3.0.0 and above of the application - 
+* [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
+* [MoPub](https://www.mopub.com/en/legal/tos) 
 \
 You should be aware that there are certain things that developer will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but the developer cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.  
 \
@@ -22,4 +37,7 @@ At some point, the developer may wish to update the app. The app is currently av
 The developer may update the terms of use from time to time. Thus, you are advised to review this page periodically for any changes. You will be notified of any changes through this page and through the application. These changes will be effective immediately after they have been posted on this page.  
 
 ### Contact
-If you have any questions or suggestions about this Terms of Use document, do not hesitate to contact me.
+If you have any questions or suggestions about this Terms of Use document, do not hesitate to contact me at [mahakagg30@gmail.com](mailto:mahakagg30@gmail.com).
+
+### Change Logs
+* June 3, 2021 - added Facebook and MoPub to the application as third party service providers.
