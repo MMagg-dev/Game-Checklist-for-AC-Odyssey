@@ -3,8 +3,8 @@
 Mahak Aggarwal ("MMagg", "I", “me”, “our”) built the Game Checklist, Tracker and Guide - for AC Odyssey application as an advertisement supported mobile application. This service is provided by me at no cost and is intended for use as is. This privacy policy contains information on collection, use, and disclosure of personal information if the service (“app”, “application”) is used.  
 If you choose to agree to this policy in the application, then you agree to the collection and use of information in relation to this privacy policy. The personal information collected is used for providing and improving the service. Your information will not be shared with anyone except as described in this privacy policy.  
 The terms used in this privacy policy have the same meanings as in the [Terms of Use](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/English/Terms%20of%20Use%20English.md) unless otherwise defined in this privacy policy. The Terms of Use are accessible through the application and through this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/English/Terms%20of%20Use%20English.md).
+This policy is effective as of version 1.0.0 and above of the application.
 
-This privacy policy has been updated for versions 2.0.0 and above of the application. The changes are reflected in the change log.
 
 ### Information Collection and Use
 For a better experience, while using the service, you may be required to provide certain personally identifiable information. This information will be retained on your device and is not collected by me in any way. 
@@ -14,7 +14,13 @@ The application uses third party services that may collect information used to i
 *	[Firebase Analytics](https://firebase.google.com/policies/analytics)
 
 The following third party service provider may collect information and identify you in versions 2.0.0 and above of the application -
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+* [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+
+The following third party service provider may collect information and identify you in versions 3.0.0 and above of the application -
+* [AdColony](https://www.adcolony.com/privacy-policy/)
+* [Facebook](https://www.facebook.com/about/privacy/update/printable)
+* [MoPub](https://www.mopub.com/en/legal/privacy)
+* [Vungle](https://vungle.com/privacy/)
 
 ### Log Data
 Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and data of your use of the service, and other statistics.
@@ -47,4 +53,5 @@ I may update the privacy policy from time to time. Thus, you are advised to revi
 If you have any questions or suggestions about this privacy policy, do not hesitate to contact me.
 
 ### Change Log
-March 2, 2020 - updated for information collection and usage by third party service provider Firebase Crashlytics
+* March 2, 2020 - updated for information collection and usage by third party service provider Firebase Crashlytics
+* July 3, 2021 - updated for information collection and usage by third party service providers AdColony, Facebook, MoPub, and Vungle.
