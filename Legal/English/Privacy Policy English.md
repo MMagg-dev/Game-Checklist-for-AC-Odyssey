@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Mahak Aggarwal ("MMagg", "I", “me”, “our”) built the Game Checklist, Tracker and Guide - for AC Odyssey application as an advertisement supported mobile application. This service is provided by me at no cost and is intended for use as is. This privacy policy contains information on collection, use, and disclosure of personal information if the service (“app”, “application”) is used.  
+Mahak Aggarwal ("MMagg", "I", “me”, “our”) built the Game Checklist, Tracker and Guide - for AC Odyssey application as an advertisement-supported mobile application. This service is provided by me at no cost and is intended for use as is. This privacy policy contains information on the collection, use, and disclosure of personal information if the service (“app”, “application”) is used.  
 If you choose to agree to this policy in the application, then you agree to the collection and use of information in relation to this privacy policy. The personal information collected is used for providing and improving the service. Your information will not be shared with anyone except as described in this privacy policy.  
 The terms used in this privacy policy have the same meanings as in the [Terms of Use](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/English/Terms%20of%20Use%20English.md) unless otherwise defined in this privacy policy. The Terms of Use are accessible through the application and through this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Legal/English/Terms%20of%20Use%20English.md).
 This policy is effective as of version 1.0.0 and above of the application.
@@ -8,29 +8,29 @@ This policy is effective as of version 1.0.0 and above of the application.
 
 ### Information Collection and Use
 For a better experience, while using the service, you may be required to provide certain personally identifiable information. This information will be retained on your device and is not collected by me in any way. 
-The application uses third party services that may collect information used to identify you. Links of privacy policies of third party service providers used by the application are as follows – 
+The application uses third-party services that may collect information used to identify you. Links of privacy policies of third party service providers used by the application are as follows – 
 *	[Google Play Services](https://policies.google.com/privacy)
 *	[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *	[Firebase Analytics](https://firebase.google.com/policies/analytics)
 
-The following third party service provider may collect information and identify you in versions 2.0.0 and above of the application -
+The following third-party service provider may collect information and identify you in versions 2.0.0 and above of the application -
 * [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
-The following third party service provider may collect information and identify you in versions 3.0.0 and above of the application -
+The following third-party service provider may collect information and identify you in versions 3.0.0 and above of the application -
 * [AdColony](https://www.adcolony.com/privacy-policy/)
 * [Facebook](https://www.facebook.com/about/privacy/update/printable)
 * [MoPub](https://www.mopub.com/en/legal/privacy)
 * [Vungle](https://vungle.com/privacy/)
 
 ### Log Data
-Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and data of your use of the service, and other statistics.
+Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and date of your use of the service, and other statistics.
 
 ### Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.  
-This service does not use “cookies” explicitly. However, the service uses third party code and libraries which may use “cookies” to collect information and improve their services. You have an option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this service. 
+This service does not use “cookies” explicitly. However, the service uses third-party code and libraries which may use “cookies” to collect information and improve their services. You have an option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this service. 
 
 ### Service Providers
-I may employ third party companies and individuals due to the following reasons: 
+I may employ third-party companies and individuals due to the following reasons: 
 *	To facilitate this service
 *	To provide service on our behalf
 *	To perform application-related services, or
@@ -44,7 +44,7 @@ Your trust is valued in providing your personal information, and therefore I am 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ### Children’s Privacy
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
 ### Changes to Privacy Policy
 I may update the privacy policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new privacy policy on this page. These changes are effective immediately after they are posted on this page.
@@ -53,5 +53,5 @@ I may update the privacy policy from time to time. Thus, you are advised to revi
 If you have any questions or suggestions about this privacy policy, do not hesitate to contact me.
 
 ### Change Log
-* March 2, 2020 - updated for information collection and usage by third party service provider Firebase Crashlytics
-* July 3, 2021 - updated for information collection and usage by third party service providers AdColony, Facebook, MoPub, and Vungle.
+* March 2, 2020 - updated for information collection and usage by third-party service provider Firebase Crashlytics
+* July 3, 2021 - updated for information collection and usage by third-party service providers AdColony, Facebook, MoPub, and Vungle.
