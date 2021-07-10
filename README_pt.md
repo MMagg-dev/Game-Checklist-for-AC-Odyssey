@@ -46,8 +46,8 @@ Política de Privacidade e Termos de Uso estão disponíveis [aqui](https://gith
 ### Capturas de ecrã
 ![dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/1_dashboard_light_pt.png)    ![main_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/2_main_quests_light_pt.png)
 
-![side_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/3_side_quests_dark_en.png)    ![location_activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/4_location_activities_dark_pt.png)
+![side_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/3_side_quests_dark_pt.png)    ![location_activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/4_location_activities_dark_pt.png)
 
-![armor](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/5_armor_light_en.png)    ![weapon](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/6_weapons_light_pt.png)
+![armor](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/5_armor_light_pt.png)    ![weapon](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/6_weapons_light_pt.png)
 
-![fate_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/7_fate_quests_dark_en.png)    ![legacy_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/8_legacy_quests_dark_pt.png)
+![fate_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/7_fate_quests_dark_pt.png)    ![legacy_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/8_legacy_quests_dark_pt.png)
