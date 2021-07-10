@@ -1,6 +1,6 @@
 # Game Checklist, Tracker and Guide - for AC Odyssey
 
-Une liste de contrôle non officielle, un suivi des progrès et un guide général pour le jeu Assassin's Creed Odyssey. Explorez la Grèce, l'Élysée, l'Enfer et l'Atlantide et assurez-vous de ne manquer aucune quête, pièce de collection ou Ostracons à énigme dans le jeu.
+Une liste de contrôle, un suivi de progression et un guide non officiels pour le jeu Assassin's Creed Odyssey. Explorez la Grèce, l'Élysée, les Enfers et l'Atlantide et assurez-vous de ne manquer aucune quête, aucun objet à collectionner, aucune réalisation ou aucune énigme d'ainigmata ostraka dans le jeu.
 
 [![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
@@ -11,36 +11,43 @@ Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 
 
 ### Listes de contrôle disponibles
-* Principales quêtes de l'histoire (avec notes générales)
-* Quêtes secondaires (avec notes générales)
-* Ostracons à énigme avec solutions
-* Tombeaux et points d'observation
-* Le culte de Kosmos (avec un guide pour obtenir des indices sur les cultures)
-* Créatures mythiques et bêtes légendaires
-* Les légendaires ensembles d'armures, armes, peaux Phobos et cosmétiques Adrestia (avec un guide pour les obtenir)
-* Réalisations
-* DLC Contes perdus de la Grèce
-* DLC L'héritage des quêtes de la première lame
-* L'Ordre des Anciens de DLC L'héritage des quêtes de la première lame (avec un guide pour obtenir des indices sur les cultures)
-* DLC Le sort des quêtes de l\'Atlantide
-* DLC Le sort de l\'Atlantide Activités de localisation - Ostracons à énigme, Hommages à la dame de marbre, La perception d\'Hermès, Tombeaux, Points d\'observation, Les déchus et Les archives
+* Quêtes de l'histoire principale : le guide des choix et des conséquences.
+* Quêtes secondaires : informations sur la ligne de quête et guide des choix et des conséquences.
+* Les énigmes : toutes les énigmes avec leurs emplacements et leurs solutions.
+* Activités sur les lieux - il s'agit d'activités telles que les tombes et les points de vue de tous les lieux du jeu.
+* Le culte de Kosmos - tous les membres du culte avec leurs noms, leurs emplacements et les indices pour les trouver. Ces éléments sont cachés par défaut pour éviter les spoilers.
+* Créatures et bêtes - noms et emplacements de toutes les créatures mythiques et bêtes légendaires avec quelques notes générales.
+* Équipement légendaire - cette liste comprend tous les ensembles d'armures, les peaux de chevaux, l'équipage d'Adrestia, les lieutenants, les figures de proue et les peaux de navires, ainsi que des informations sur la façon de les obtenir.
+* Armes légendaires - cette liste comprend tous les arcs légendaires, les poignards, les armes à lame lourde, les armes contondantes, les lances, les bâtons et les épées, ainsi que des informations sur la façon de les obtenir.
+* Réalisations - du jeu principal et de tous les DLC. Cela inclut également tous les succès secrets qui sont cachés par défaut pour éviter les spoilers.
+* DLC Contes perdus de la Grèce : toutes les quêtes de tous les épisodes.
+* Quêtes du DLC Héritage de la première lame - cette liste comprend toutes les quêtes principales et secondaires des 3 épisodes du DLC, ainsi qu'un guide des choix et des conséquences.
+* L'Ordre des Anciens - tous les membres de l'ordre, y compris leurs noms, leurs emplacements et les indices pour les trouver. Cette partie est masquée par défaut pour éviter les spoilers.
+* Quêtes du DLC Le sort de l'Atlantide - cette liste comprend toutes les quêtes du prologue et des 3 épisodes du DLC, ainsi qu'un guide des choix et des conséquences.
+* Activités liées aux lieux de DLC Le sort de l'Atlantide : cette liste comprend toutes les énigmes d'ostraka (avec leurs solutions), la perception d'Hermès, les tombes, les points de vue, les hommages aux vierges de marbre, les déchus et les archives que l'on peut trouver à Elysium, Underworld et Atlantis.
 
 ### Caractéristiques
-* Suivez vos progrès
-* Option d'inclure/exclure les DLCs dans le progrès total
-* Possibilité de déplacer les éléments cochés au bas des listes
-* Possibilité de cacher/afficher les spoilers pour les membres du Culte de Kosmos et de l'Ordre des Anciens
-* Possibilité de cacher/afficher des réalisations secrètes
-* Possibilité de réinitialiser les listes
-* Thème sombre disponible pour les appareils qui le supportent
-* Application disponible en anglais, français et portugais
+* Thèmes clairs et sombres
+* Suivez votre progression
+* Option pour inclure/exclure les DLC dans la progression totale
+* Option pour déplacer les éléments cochés en bas des listes.
+* Option pour cacher/afficher les succès secrets
+* Option pour cocher et réinitialiser les listes
+* Application disponible en anglais, français et portugais.
 
 ### Remarques
-Veuillez noter qu'il s'agit d'une application réalisée par un tiers et par un fan. Assassin's Creed, Assassin's Creed Odyssée, ainsi que tous les droits d'auteur et les marques de commerce connexes sont la propriété d'Ubisoft Québec et d'Ubisoft. Cette application n'est pas maintenue par, affiliée à ou endossée par Ubisoft Québec ou Ubisoft.
-Comme cette application a été traduite de l'anglais, la traduction peut ne pas être exacte à 100 %.
+Veuillez noter qu'il s'agit d'une application tierce, créée par des fans. Cette application n'est pas maintenue par, affiliée à, ou endossée par Ubisoft Québec ou Ubisoft (les développeurs des jeux Assassin's Creed).
+Partie de l'icône du lanceur réalisée par <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> de <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
+Comme cette application a été traduite de l'anglais, la traduction peut ne pas être correcte à 100%.
 
 ### Légal
 La politique de confidentialité et les conditions d'utilisation sont disponibles [ici](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) en anglais, français et portugais.
 
 ### Captures d'écran
-Voir les captures d'écran [ici](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/French).
+![dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/1_dashboard_light_fr.png)    ![main_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/2_main_quests_light_fr.png)
+
+![side_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/3_side_quests_dark_fr.png)    ![location_activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/4_location_activities_dark_fr.png)
+
+![armor](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/5_armor_light_fr.png)    ![weapon](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/6_weapons_light_fr.png)
+
+![fate_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/7_fate_quests_dark_fr.png)    ![legacy_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/8_legacy_quests_dark_fr.png)
