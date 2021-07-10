@@ -48,6 +48,6 @@ Política de Privacidade e Termos de Uso estão disponíveis [aqui](https://gith
 
 ![side_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/3_side_quests_dark_pt.png)    ![location_activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/4_location_activities_dark_pt.png)
 
-![armor](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/5_armor_light_pt.png)    ![weapon](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/6_weapons_light_pt.png)
+![weapons](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/5_weapons_light_pt.png)    ![weapon detail](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/6_weapon_detail_light_pt.png)
 
 ![fate_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/7_fate_quests_dark_pt.png)    ![legacy_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/8_legacy_quests_dark_pt.png)
