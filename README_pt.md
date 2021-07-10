@@ -1,6 +1,6 @@
 # Game Checklist, Tracker and Guide - for AC Odyssey
 
-Uma lista de verificação não-oficial, um rastreador de progresso, e um guia geral para o jogo Assassin's Creed Odyssey. Explore Grécia, Elísio, Submundo, e Atlântida e certifique-se de que não perde nenhuma busca, coleccionável, ou Ostracões de Enigmas no jogo.
+Uma lista de verificação não-oficial, um rastreador de progresso, e um guia para o jogo Assassin's Creed Odyssey. Explore a Grécia, Élísio, Submundo e Atlântida e certifique-se de que não perde nenhuma missão, coleccionável, realização, ou puzzle ainigmata ostraka no jogo.
 
 [![Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
@@ -11,36 +11,43 @@ Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/bl
 
 
 ### Listas de verificação disponíveis
-* Missões principais de linha de história (com notas gerais)
-* Missões secundárias (com notas gerais)
-* Ostracões de Enigmas com soluções
-* Túmulos e pontos de vista
-* O Culto do Kosmos (com um guia sobre a obtenção de pistas de culto)
-* Criaturas míticas e bestas lendárias
-* Conjuntos de armaduras lendárias, armas, peles de Fobos e cosméticos Adrestia (com um guia sobre como obtê-los)
-* Conquistas
-* DLC Contos perdidos da Grécia
-* DLC Legado das Primeiras Missões da Lâmina
-* A Ordem dos Antigos do DLC Legado da primeira lâmina (com um guia sobre a obtenção de pistas de culto)
-* DLC O Destino das Missões Atlânticas
-* DLC O Destino das Actividades de Localização da Atlântida - ostracões de enigmas, Tributos da Dama de Mármore, Percepção de Hermes, túmulos, pontos de observação, O Caído, e arquivos
+* Missões principais da história - isto inclui o guia de escolhas e consequências.
+* Missões secundárias - isto inclui informação sobre a linha de procura juntamente com o guia de escolhas e consequências.
+* Ainigmata ostraka - todos os enigmas com as suas localizações e soluções.
+* Actividades de localização - isto inclui actividades tais como túmulos e pontos de vista de todos os locais do jogo.
+* O Culto do Kosmos - todos os membros do culto incluindo os seus nomes, locais, e pistas para os encontrar. Isto é escondido por defeito para evitar estragadores.
+* Criaturas e bestas - nomes e localizações de todas as criaturas míticas e bestas lendárias com algumas notas gerais.
+* Equipamento lendário - esta lista inclui todos os conjuntos de armaduras, peles de cavalo, tripulação da Adrestia, tenentes, figuras e peles de navios, juntamente com informações sobre como obtê-los.
+* Armas lendárias - esta lista inclui todos os arcos lendários, punhais, armas de lâmina pesada, armas de lâmina pesada, lanças, cajados, e espadas, juntamente com informação sobre como obtê-las.
+* Conquistas - do jogo principal e de todos os DLCs. Isto inclui também todos os feitos secretos que estão escondidos por defeito para evitar estragadores.
+* DLC Contos perdidos da Grécia - todas as missões de todos os episódios.
+* Missões do DLC Legado da primeira lâmina - esta lista inclui todas as missões principais e secundárias de todos os 3 episódios do DLC, juntamente com escolhas e guia de consequências.
+* A Ordem dos Antigos - todos os membros da ordem incluindo os seus nomes, localizações, e pistas para os encontrar. Isto é escondido por defeito para evitar estragadores.
+* Missões do DLC O destino da Atlântida - esta lista inclui todas as missões do prólogo e os 3 episódios do DLC, juntamente com escolhas e guia de consequências.
+* Actividades de localização do DLC O destino da Atlântida - isto inclui todos os puzzles de ostraka (com soluções), Percepção de Hermes, túmulos, miradouros, Tributos de Donzela de Mármore, Os Caídos, e os Arquivos que podem ser encontrados em Elysium, Submundo, e Atlântida.
 
 ### Recursos
+* Temas claros e escuros
 * Acompanhe o seu progresso
-* Opção de incluir/excluir DLCs no progresso total
-* Opção de mover itens verificados para o fundo das listas
-* Opção de esconder/mostrar spoilers para membros do Culto do Kosmos e da Ordem dos Antigos
-* Opção de esconder/mostrar realizações secretas
-* Opção de reiniciar listas
-* Tema negro disponível para dispositivos que o suportam
-* Aplicação disponível em inglês, francês, e português
+* Opção para incluir/excluir DLCs no progresso total
+* Opção para mover itens verificados para o fundo das listas
+* Opção para esconder/mostrar realizações secretas
+* Opção para verificar e reiniciar as listas
+* Aplicação disponível em inglês, francês e português
 
 ### Notas
-Note-se que se trata de uma aplicação feita por terceiros, em leque. Assassin's Creed, Assassin's Creed Odyssey, e todos os direitos de autor e marcas comerciais relacionadas são propriedade da Ubisoft Quebec e Ubisoft. Esta aplicação não é mantida por, afiliada ou endossada pela Ubisoft Quebec ou pela Ubisoft.
-Uma vez que esta aplicação foi traduzida do inglês, a tradução pode não ser 100% precisa.
+Note-se que se trata de uma aplicação de terceiros, feita em leque. Esta aplicação não é mantida por, afiliada ou endossada pela Ubisoft Quebec ou Ubisoft (os criadores dos jogos Assassin's Creed).
+Parte do ícone do lançador feito por <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> de <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.
+Uma vez que esta aplicação foi traduzida do inglês, a tradução pode não ser 100% correcta.
 
 ### Legal
 Política de Privacidade e Termos de Uso estão disponíveis [aqui](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) em inglês, francês, e português.
 
 ### Capturas de ecrã
-Ver capturas de ecrã [aqui](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Screenshots/Portuguese).
+![dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/1_dashboard_light_pt.png)    ![main_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/2_main_quests_light_pt.png)
+
+![side_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/3_side_quests_dark_en.png)    ![location_activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/4_location_activities_dark_pt.png)
+
+![armor](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/5_armor_light_en.png)    ![weapon](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/English/6_weapons_light_pt.png)
+
+![fate_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/7_fate_quests_dark_en.png)    ![legacy_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/8_legacy_quests_dark_pt.png)
