@@ -20,6 +20,15 @@ Os seguintes prestadores de serviços terceiros podem recolher informações e i
 * [MoPub](https://www.mopub.com/en/legal/privacy)
 * [Vungle](https://vungle.com/privacy/)
 
+Os seguintes prestadores de serviços terceiros podem recolher informações e identificá-lo nas versões 3.1.0 e superiores da aplicação –
+* [AppLovin](https://www.applovin.com/privacy/)
+
+Os seguintes prestadores de serviços de terceiros foram removidos e, portanto, não recolherão qualquer informação ou identificação nas versões 3.1.0 e superiores da aplicação -
+* [AdColony](https://www.adcolony.com/privacy-policy/)
+* [MoPub](https://www.mopub.com/en/legal/privacy)
+* [Vungle](https://vungle.com/privacy/)
+
+
 ### Dados de Registo
 Sempre que a aplicação é utilizada, em caso de erro, a aplicação recolhe dados e informações (através de terceiros prestadores de serviços) chamados dados de registo no seu dispositivo. Os dados de registo podem incluir informações tais como o endereço do Protocolo Internet ("IP") do seu dispositivo, nome do dispositivo, versão do sistema operativo, configuração da aplicação ao utilizar o serviço, hora e data da sua utilização do serviço, e outras estatísticas.
 
@@ -50,5 +59,6 @@ Posso atualizar a política de privacidade de tempos a tempos. Assim, aconselham
 Se tiver quaisquer perguntas ou sugestões sobre esta política de privacidade, não hesite em contactar-me.
 
 ### Registo de Alterações
-* 2 de Março de 2020 - atualizado para recolha e utilização de informação por terceiros Firebase Crashlytics
+* 2 de Março de 2020 - atualizado para recolha e utilização de informação por terceiros Firebase Crashlytics.
 * 3 de Julho de 2021 - atualizado para recolha e utilização de informação por fornecedores de serviços de terceiros AdColony, Facebook, MoPub, e Vungle.
+* 26 de Janeiro de 2022 - atualizado para recolha e utilização de informação por terceiros Firebase Crashlytics AppLovin. Além disso, AdColony, MoPub, e Vungle foram removidos como terceiros que podem recolher informação.
