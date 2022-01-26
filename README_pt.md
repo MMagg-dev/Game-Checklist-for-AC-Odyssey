@@ -10,6 +10,28 @@ Use this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README_fr.md) pour le visualiser en Français.
 
 
+### DLCs
+* Legado da primeira lâmina
+* O destino da Atlântida
+* Contos perdidos da Grécia
+* Pessoas Queridas
+* Segredos da Grécia
+* O Rei Cego
+
+
+### Recursos
+* Escolhas e consequências para o jogo principal e para os DLCs
+* Função de pesquisa para pesquisar todas as listas
+* Temas claros e escuros
+* Acompanhe o seu progresso
+* Opção para incluir/excluir DLCs no progresso total
+* Opção para mover itens verificados para o fundo das listas
+* Opção para esconder/mostrar realizações secretas
+* Opção para verificar e reiniciar as listas
+* Aplicação disponível em inglês, francês e português
+
+
+
 ### Listas de verificação disponíveis
 * Missões principais da história - isto inclui o guia de escolhas e consequências.
 * Missões secundárias - isto inclui informação sobre a linha de procura juntamente com o guia de escolhas e consequências.
@@ -25,15 +47,9 @@ Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/bl
 * A Ordem dos Antigos - todos os membros da ordem incluindo os seus nomes, localizações, e pistas para os encontrar. Isto é escondido por defeito para evitar estragadores.
 * Missões do DLC O destino da Atlântida - esta lista inclui todas as missões do prólogo e os 3 episódios do DLC, juntamente com escolhas e guia de consequências.
 * Actividades de localização do DLC O destino da Atlântida - isto inclui todos os puzzles de ostraka (com soluções), Percepção de Hermes, túmulos, miradouros, Tributos de Donzela de Mármore, Os Caídos, e os Arquivos que podem ser encontrados em Elysium, Submundo, e Atlântida.
+* Missões de Pessoas Queridas - missões do DLC gratuito
+* Actividades da Ilha de Korfu - isto inclui todos os puzzles de ostraka (com soluções), túmulos e pontos de vista que podem ser encontrados na Ilha de Korfu
 
-### Recursos
-* Temas claros e escuros
-* Acompanhe o seu progresso
-* Opção para incluir/excluir DLCs no progresso total
-* Opção para mover itens verificados para o fundo das listas
-* Opção para esconder/mostrar realizações secretas
-* Opção para verificar e reiniciar as listas
-* Aplicação disponível em inglês, francês e português
 
 ### Notas
 Note-se que se trata de uma aplicação de terceiros, feita em leque. Esta aplicação não é mantida por, afiliada ou endossada pela Ubisoft Quebec ou Ubisoft (os criadores dos jogos Assassin's Creed).
