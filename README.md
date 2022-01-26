@@ -10,6 +10,12 @@ Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/bl
 Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README_pt.md) para ver isto é Português.
 
 
+### DLCs
+* Legacy of the first blade
+* Fate of Atlantis
+* Lost Tales of Greece
+* Those Who Are Treasured (Crossover stories)
+
 ### Checklists
 * Main story quests - this includes the choices and consequences guide.
 * Side quests - this includes information on the quest-line along with the choices and consequences guide.
@@ -25,6 +31,8 @@ Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 * The Order of the Ancients - all members of the order including their names, locations, and clues to finding them. This is hidden by default to avoid spoilers.
 * The Fate of Atlantis DLC quests - this list includes all the quests from the prologue and the 3 episodes of the DLC along with a choices and consequences guide.
 * The Fate of Atlantis DLC location activities - this includes all the ostraka puzzles (with solutions), Perception of Hermes, tombs, viewpoints, Marble Maiden Tributes, The Fallen, and the Archives that can be found in Elysium, Underworld, and Atlantis
+* Those Who Are Treasured DLC - quests from AC Valhalla x AC Odyssey crossover
+* Korfu Location Activities - this includes all the ostraka puzzles (with solutions), tombs, and viewpoints that can be found on Korfu Island (AC Valhalla x AC Odyssey crossover stories)
 
 ### Features
 * Light and dark themes
