@@ -21,6 +21,12 @@ Les fournisseurs de services tiers suivants sont utilisés dans les versions 3.0
 * [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
 * [MoPub](https://www.mopub.com/en/legal/tos) 
 
+Les fournisseurs de services tiers suivants sont utilisés dans les versions 3.1.0 et suivantes de l'application – 
+* [AppLovin](https://www.applovin.com/terms/)
+
+Les fournisseurs de services tiers suivants ont été supprimés des versions 3.1.0 et ultérieures de l'application - 
+* [MoPub](https://www.mopub.com/en/legal/tos)
+
 
 Vous devez savoir qu'il y a certaines choses pour lesquelles le développeur ne prend pas la responsabilité. Certaines fonctions de l'application nécessitent une connexion Internet active. La connexion peut être Wi-Fi ou fournie par votre fournisseur de réseau mobile, mais le développeur ne peut pas être tenu responsable du fait que l'application ne fonctionne pas pleinement si vous n'avez pas accès à une connexion Wi-Fi et si vous n'avez plus d'allocation de données.  
 \
@@ -40,3 +46,4 @@ Si vous avez des questions ou des suggestions concernant le présent document su
 
 ### Journaux des Modifications
 * 3 juillet 2021 - ajout de Facebook et MoPub à l'application en tant que fournisseurs de services tiers.
+* 26 janvier 2022 - ajout de AppLovin et suppression de MoPub comme fournisseur de services tiers.
