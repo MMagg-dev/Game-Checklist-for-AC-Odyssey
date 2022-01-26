@@ -22,6 +22,14 @@ The following third-party service providers may collect information and identify
 * [MoPub](https://www.mopub.com/en/legal/privacy)
 * [Vungle](https://vungle.com/privacy/)
 
+The following third-party service providers may collect information and identify you in versions 3.1.0 and above of the application -
+* [AppLovin](https://www.applovin.com/privacy/)
+
+The following third-party service providers have been removed and therefore will not collect any information or identification in versions 3.1.0 and above of the application -
+* [AdColony](https://www.adcolony.com/privacy-policy/)
+* [MoPub](https://www.mopub.com/en/legal/privacy)
+* [Vungle](https://vungle.com/privacy/)
+
 ### Log Data
 Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and date of your use of the service, and other statistics.
 
@@ -55,3 +63,4 @@ If you have any questions or suggestions about this privacy policy, do not hesit
 ### Change Log
 * March 2, 2020 - updated for information collection and usage by third-party service provider Firebase Crashlytics
 * July 3, 2021 - updated for information collection and usage by third-party service providers AdColony, Facebook, MoPub, and Vungle.
+* January 26, 2022 - updated for information collection and third party usage by AppLovin. In addition, AdColony, MoPub, and Vungle have been removed as third parties that can collect information
