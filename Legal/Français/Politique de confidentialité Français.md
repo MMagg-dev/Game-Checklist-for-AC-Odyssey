@@ -20,6 +20,15 @@ Les fournisseurs de services tiers suivants peuvent recueillir des informations 
 * [MoPub](https://www.mopub.com/en/legal/privacy)
 * [Vungle](https://vungle.com/privacy/)
 
+Les fournisseurs de services tiers suivants peuvent recueillir des informations et vous identifier dans les versions 3.1.0 et supérieures de l'application –
+* [AppLovin](https://www.applovin.com/privacy/)
+
+Les fournisseurs de services tiers suivants ont été supprimés et ne collecteront donc aucune information ou identification dans les versions 3.1.0 et supérieures de l'application -
+* [AdColony](https://www.adcolony.com/privacy-policy/)
+* [MoPub](https://www.mopub.com/en/legal/privacy)
+* [Vungle](https://vungle.com/privacy/)
+
+
 ### Données de Registration
 À chaque utilisation de l'application, en cas d'erreur, l'application collecte des données et des informations (par l'intermédiaire de prestataires de services tiers) appelées données de journal sur votre appareil. Les données de journal peuvent inclure des informations telles que l'adresse de protocole Internet (" IP ") de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation du service, l'heure et la date de votre utilisation du service, et d'autres statistiques.
 
@@ -52,3 +61,4 @@ Si vous avez des questions ou des suggestions concernant cette politique de conf
 ### Journal des Modifications
 * 2 mars 2020 - mise à jour pour la collecte et l'utilisation d'informations par le fournisseur de services tiers Firebase Crashlytics.
 * 3 juillet 2021 - mise à jour concernant la collecte et l'utilisation des informations par les fournisseurs de services tiers AdColony, Facebook, MoPub et Vungle.
+* 26 janvier 2022 - mise à jour pour la collecte et l'utilisation d'informations par le fournisseur de services tiers AppLovin. En outre, AdColony, MoPub et Vungle ont été supprimés en tant que tiers pouvant collecter des informations.
