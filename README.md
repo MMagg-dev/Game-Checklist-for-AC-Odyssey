@@ -15,6 +15,8 @@ Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 * Fate of Atlantis
 * Lost Tales of Greece
 * Those Who Are Treasured (AC Valhalla x AC Odyssey Crossover Stories)
+* Secrets of Greece
+* Prince of Persia (The Blind King)
 
 ### Features
 * Choices and consequences for the main game and the DLCs
