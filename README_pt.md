@@ -60,10 +60,10 @@ Uma vez que esta aplicação foi traduzida do inglês, a tradução pode não se
 Política de Privacidade e Termos de Uso estão disponíveis [aqui](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/tree/master/Legal) em inglês, francês, e português.
 
 ### Capturas de ecrã
-![dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/1_dashboard_light_pt.png)    ![main_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/2_main_quests_light_pt.png)
+![dashboard](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/1_dashboard_light_pt.png)    ![search](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/2_search_light_pt.png)
 
-![side_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/3_side_quests_dark_pt.png)    ![location_activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/4_location_activities_dark_pt.png)
+![main_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/3_main_quests_light_pt.png)    ![location_activities](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/4_location_activities_light_pt.png)
 
-![weapons](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/5_weapons_light_pt.png)    ![weapon detail](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/6_weapon_detail_light_pt.png)
+![armor](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/5_armor_dark_pt.png)    ![weapon](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/6_weapons_dark_pt.png)
 
 ![fate_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/7_fate_quests_dark_pt.png)    ![legacy_quests](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/Screenshots/Portuguese/8_legacy_quests_dark_pt.png)
