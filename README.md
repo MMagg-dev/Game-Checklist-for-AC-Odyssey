@@ -14,7 +14,18 @@ Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 * Legacy of the first blade
 * Fate of Atlantis
 * Lost Tales of Greece
-* Those Who Are Treasured (Crossover stories)
+* Those Who Are Treasured (AC Valhalla x AC Odyssey Crossover Stories)
+
+### Features
+* Choices and consequences for the main game and the DLCs
+* Search feature for searching all the lists
+* Light and dark themes
+* Track your progress
+* Option to include/exclude DLCs in total progress
+* Option to move checked items to the bottom of lists
+* Option to hide/show secret achievements
+* Option to check off and reset lists
+* Application available in English, French, and Portuguese
 
 ### Checklists
 * Main story quests - this includes the choices and consequences guide.
@@ -34,14 +45,7 @@ Use este [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/
 * Those Who Are Treasured DLC - quests from AC Valhalla x AC Odyssey crossover
 * Korfu Location Activities - this includes all the ostraka puzzles (with solutions), tombs, and viewpoints that can be found on Korfu Island (AC Valhalla x AC Odyssey crossover stories)
 
-### Features
-* Light and dark themes
-* Track your progress
-* Option to include/exclude DLCs in total progress
-* Option to move checked items to the bottom of lists
-* Option to hide/show secret achievements
-* Option to check off and reset lists
-* Application available in English, French, and Portuguese
+
 
 ### Notes
 Please note that this is a third-party, fan-made application. This app is not maintained by, affiliated to, or endorsed by Ubisoft Quebec or Ubisoft (the developers of Assassin’s Creed games).
