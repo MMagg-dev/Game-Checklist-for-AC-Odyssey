@@ -19,7 +19,13 @@ The app does use third-party services that declare their own Terms and Condition
 
 The following third party service providers are used in versions 3.0.0 and above of the application - 
 * [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
-* [MoPub](https://www.mopub.com/en/legal/tos) 
+* [MoPub](https://www.mopub.com/en/legal/tos)
+
+The following third party service provider has been added in versions 3.1.0 and above of the application - 
+* [AppLovin](https://www.applovin.com/terms/)
+
+The following third party service provider has been removed from versions 3.1.0 and above of the application - 
+* [MoPub](https://www.mopub.com/en/legal/tos)
 
 
 You should be aware that there are certain things that developer will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but the developer cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.  
@@ -40,3 +46,4 @@ If you have any questions or suggestions about this Terms of Use document, do no
 
 ### Change Logs
 * July 3, 2021 - added Facebook and MoPub to the application as third-party service providers.
+* January 26, 2022 - added AppLovin and removed MoPub as third party service provider.
