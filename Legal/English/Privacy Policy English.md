@@ -61,6 +61,6 @@ I may update the privacy policy from time to time. Thus, you are advised to revi
 If you have any questions or suggestions about this privacy policy, do not hesitate to contact me.
 
 ### Change Log
-* March 2, 2020 - updated for information collection and usage by third-party service provider Firebase Crashlytics
+* March 2, 2020 - updated for information collection and usage by third-party service provider Firebase Crashlytics.
 * July 3, 2021 - updated for information collection and usage by third-party service providers AdColony, Facebook, MoPub, and Vungle.
-* January 26, 2022 - updated for information collection and third party usage by AppLovin. In addition, AdColony, MoPub, and Vungle have been removed as third parties that can collect information
+* January 26, 2022 - updated for information collection and  usage by third-party service provider by AppLovin. In addition, AdColony, MoPub, and Vungle have been removed as third parties that can collect information.
