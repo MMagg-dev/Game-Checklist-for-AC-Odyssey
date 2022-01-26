@@ -21,6 +21,11 @@ Os seguintes prestadores de serviços de terceiros são utilizados nas versões 
 * [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
 * [MoPub](https://www.mopub.com/en/legal/tos) 
 
+Os seguintes prestadores de serviços de terceiros são utilizados nas versões 3.1.0 e superiores da aplicação – 
+* [AppLovin](https://www.applovin.com/terms/)
+
+O seguinte prestador de serviços de terceiros foi removido das versões 3.1.0 e superiores da aplicação -
+* [MoPub](https://www.mopub.com/en/legal/tos)
 
 Deve estar ciente de que existem certas coisas pelas quais o promotor não assumirá a responsabilidade. Certas funções da aplicação exigirão que a aplicação tenha uma ligação ativa à Internet. A ligação pode ser Wi-Fi ou fornecida pelo seu fornecedor de rede móvel, mas o programador não pode assumir a responsabilidade pelo facto de a aplicação não funcionar em pleno se não tiver acesso a Wi-Fi, e não lhe restar nenhum dos seus dados.  
 \
@@ -40,3 +45,4 @@ Se tiver quaisquer perguntas ou sugestões sobre este documento de Termos de Uti
 
 ### Registos de Alterações
 * 3 de Julho de 2021 - adicionou o Facebook e o MoPub à aplicação como fornecedores de serviços de terceiros.
+* 26 de Janeiro de 2022 - adicionou AppLovin e removeu MoPub como prestador de serviços de terceiros.
