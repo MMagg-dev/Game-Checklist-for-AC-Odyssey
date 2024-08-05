@@ -8,7 +8,7 @@ This policy is effective as of version 1.0.0 and above of the application.
 
 ### Information Collection and Use
 For a better experience, while using the service, you may be required to provide certain personally identifiable information. This information will be retained on your device and is not collected by me in any way. 
-The application uses third-party services that may collect information used to identify you. Links of privacy policies of third party service providers used by the application are as follows – 
+The application uses third-party services that may collect information used to identify you. Links to privacy policies of third-party service providers used by the application are as follows – 
 *	[Google Play Services](https://policies.google.com/privacy)
 *	[AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *	[Firebase Analytics](https://firebase.google.com/policies/analytics)
@@ -30,12 +30,15 @@ The following third-party service providers have been removed and therefore will
 * [MoPub](https://www.mopub.com/en/legal/privacy)
 * [Vungle](https://vungle.com/privacy/)
 
+The following third-party service provider has been removed and therefore will not collect any information or identification in versions 3.4.0 and above of the application -
+* [AppLovin](https://www.applovin.com/privacy/)
+
 ### Log Data
-Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and date of your use of the service, and other statistics.
+Whenever the application is used, in case of an error, the app collects data and information (through third-party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and date of your use of the service, and other statistics.
 
 ### Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.  
-This service does not use “cookies” explicitly. However, the service uses third-party code and libraries which may use “cookies” to collect information and improve their services. You have an option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this service. 
+This service does not use “cookies” explicitly. However, the service uses third-party code and libraries which may use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this service. 
 
 ### Service Providers
 I may employ third-party companies and individuals due to the following reasons: 
@@ -52,7 +55,7 @@ Your trust is valued in providing your personal information, and therefore I am 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ### Children’s Privacy
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to take the necessary actions.
 
 ### Changes to Privacy Policy
 I may update the privacy policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new privacy policy on this page. These changes are effective immediately after they are posted on this page.
@@ -64,3 +67,4 @@ If you have any questions or suggestions about this privacy policy, do not hesit
 * March 2, 2020 - updated for information collection and usage by third-party service provider Firebase Crashlytics.
 * July 3, 2021 - updated for information collection and usage by third-party service providers AdColony, Facebook, MoPub, and Vungle.
 * January 26, 2022 - updated for information collection and  usage by third-party service provider by AppLovin. In addition, AdColony, MoPub, and Vungle have been removed as third parties that can collect information.
+* August 5, 2024 - AppLovin has been removed as a third-party service provider that can collect information.
