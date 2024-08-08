@@ -44,7 +44,9 @@ Posso empregar empresas e indivíduos terceiros devido às seguintes razões:
 *	Para facilitar este serviço
 *	Prestar serviço em nosso nome
 *	Para executar serviços relacionados com a aplicação, ou
-*	Para ajudar a analisar a forma como este serviço é utilizado Estes terceiros têm acesso às suas informações pessoais. A razão é executar as tarefas que lhes são atribuídas em nosso nome. No entanto, são obrigados a não divulgar ou utilizar as informações para qualquer outro fim. 
+*	Para ajudar a analisar a forma como este serviço é utilizado
+
+Estes terceiros têm acesso às suas informações pessoais. A razão é executar as tarefas que lhes são atribuídas em nosso nome. No entanto, são obrigados a não divulgar ou utilizar as informações para qualquer outro fim. 
 
 ### Segurança
 A sua confiança é valorizada no fornecimento das suas informações pessoais, e por isso estou a esforçar-me por utilizar meios comercialmente aceitáveis para as proteger. Mas lembre-se que nenhum método de transmissão através da Internet, ou método de armazenamento eletrónico é 100% seguro e fiável, e não posso garantir a sua segurança absoluta.
