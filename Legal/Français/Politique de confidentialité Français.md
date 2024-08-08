@@ -44,7 +44,9 @@ Il se peut que j'emploie des sociétés et des personnes tierces pour les raison
 *	Pour faciliter ce service
 *	Fournir un service en notre nom
 *	Pour fournir des services liés à l'application, ou
-*	Pour nous aider à analyser l'utilisation de ce service. Ces tiers ont accès à vos informations personnelles. Ils le font pour exécuter les tâches qui leur sont confiées en notre nom. Toutefois, ils sont tenus de ne pas divulguer ou utiliser ces informations à d'autres fins. 
+*	Pour nous aider à analyser l'utilisation de ce service
+
+Ces tiers ont accès à vos informations personnelles. Ils le font pour exécuter les tâches qui leur sont confiées en notre nom. Toutefois, ils sont tenus de ne pas divulguer ou utiliser ces informations à d'autres fins. 
 
 ### Sécurité
 La confiance que vous m'accordez en me fournissant vos informations personnelles est précieuse, et je m'efforce donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur l'internet ou de stockage électronique n'est sûre et fiable à 100 % et que je ne peux pas en garantir la sécurité absolue.
