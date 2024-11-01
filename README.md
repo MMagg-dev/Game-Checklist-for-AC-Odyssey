@@ -2,7 +2,7 @@
 
 An unofficial checklist, progress tracker, and guide for Assassin's Creed Odyssey game. Explore Greece, Elysium, Underworld, and Atlantis and make sure you don't miss out on any quest, collectible, achievement, or ainigmata ostraka puzzle in the game.
 
-**This app is not available on any app store.**
+[![Google Play](google_play_en.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
 Utilisez ce [lien](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README_fr.md) pour le visualiser en Français.
 
