@@ -2,6 +2,7 @@
 
 Uma lista de verificação não-oficial, um rastreador de progresso, e um guia para o jogo Assassin's Creed Odyssey. Explore a Grécia, Élísio, Submundo e Atlântida e certifique-se de que não perde nenhuma missão, coleccionável, realização, ou puzzle ainigmata ostraka no jogo.
 
+[![Google Play](google_play_pt.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
 Use this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README.md) to view this is English.
 
