@@ -2,7 +2,7 @@
 
 Une liste de contrôle, un suivi de progression et un guide non officiels pour le jeu Assassin's Creed Odyssey. Explorez la Grèce, l'Élysée, les Enfers et l'Atlantide et assurez-vous de ne manquer aucune quête, aucun objet à collectionner, aucune réalisation ou aucune énigme d'ainigmata ostraka dans le jeu.
 
-
+[![Google Play](google_play_fr.png)](https://play.google.com/store/apps/details?id=me.mmagg.aco_checklist)
 
 Use this [link](https://github.com/MMagg-dev/Game-Checklist-for-AC-Odyssey/blob/master/README.md) to view this in English.
 
