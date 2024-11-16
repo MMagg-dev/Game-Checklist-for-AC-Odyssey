@@ -1,4 +1,4 @@
-# Game Checklist, Tracker and Guide - for AC Odyssey
+# Guide, Checklist - AC Odyssey
 
 Uma lista de verificação não-oficial, um rastreador de progresso, e um guia para o jogo Assassin's Creed Odyssey. Explore a Grécia, Élísio, Submundo e Atlântida e certifique-se de que não perde nenhuma missão, coleccionável, realização, ou puzzle ainigmata ostraka no jogo.
 
