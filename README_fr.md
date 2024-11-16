@@ -1,4 +1,4 @@
-# Game Checklist, Tracker and Guide - for AC Odyssey
+# Guide, Checklist - AC Odyssey
 
 Une liste de contrôle, un suivi de progression et un guide non officiels pour le jeu Assassin's Creed Odyssey. Explorez la Grèce, l'Élysée, les Enfers et l'Atlantide et assurez-vous de ne manquer aucune quête, aucun objet à collectionner, aucune réalisation ou aucune énigme d'ainigmata ostraka dans le jeu.
 
